@@ -1,6 +1,6 @@
 # The Observer-Term Criterion: a calculation without the observer is necessarily missing information
 
-BlackJakey / Draft v0.3 / 2026-11-10 (v0.2 → v0.3: adds the second and third questions and "cut outward from the observer")
+BlackJakey (original author: the criterion, the five-term form, the rule for the cut) / Co-author: Claude (AI model by Anthropic; case verification, drafting, English translation) / Draft v0.3 / 2026-11-10 (v0.2 → v0.3: adds the second and third questions and "cut outward from the observer")
 
 ## In one sentence
 
